@@ -1,0 +1,10 @@
+c:\users\v\documents\visual studio 2015\Projects\formlararasigecis\formlararasigecis\bin\Debug\formlararasigecis.exe.config
+c:\users\v\documents\visual studio 2015\Projects\formlararasigecis\formlararasigecis\bin\Debug\formlararasigecis.exe
+c:\users\v\documents\visual studio 2015\Projects\formlararasigecis\formlararasigecis\bin\Debug\formlararasigecis.pdb
+c:\users\v\documents\visual studio 2015\Projects\formlararasigecis\formlararasigecis\obj\Debug\formlararasigecis.csprojResolveAssemblyReference.cache
+c:\users\v\documents\visual studio 2015\Projects\formlararasigecis\formlararasigecis\obj\Debug\formlararasigecis.Form1.resources
+c:\users\v\documents\visual studio 2015\Projects\formlararasigecis\formlararasigecis\obj\Debug\formlararasigecis.Form2.resources
+c:\users\v\documents\visual studio 2015\Projects\formlararasigecis\formlararasigecis\obj\Debug\formlararasigecis.Properties.Resources.resources
+c:\users\v\documents\visual studio 2015\Projects\formlararasigecis\formlararasigecis\obj\Debug\formlararasigecis.csproj.GenerateResource.Cache
+c:\users\v\documents\visual studio 2015\Projects\formlararasigecis\formlararasigecis\obj\Debug\formlararasigecis.exe
+c:\users\v\documents\visual studio 2015\Projects\formlararasigecis\formlararasigecis\obj\Debug\formlararasigecis.pdb
